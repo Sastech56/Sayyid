@@ -1,0 +1,85 @@
+center{
+    background-image: url(../BIO/bg1.jpg);
+}
+
+.container-fluid{
+    font-family: 'Montserrat' ;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+}
+
+#navbar{
+    position: fixed;
+    width: 100%;
+}
+
+.navbar-collapse{
+    margin-left: 70%;
+}
+
+ .Content{   
+    width: 100%;
+    
+}
+
+.img_carousel{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    width: 100vh;
+   
+}
+
+.kotak{
+    margin-top: 7%;
+}
+/*
+.carousel-inner{
+    background-color: aqua;
+    /* left: 50%; 
+}
+
+/* .slide{
+    left: 25%;
+} */ 
+
+.profil{
+    background: rgba(0, 0, 0, 0.3);
+    margin-top: 10vh;
+    padding-top: 8vh;
+    padding-bottom: 10vh;
+    margin-bottom: 20vh;
+    margin-left: 10vh;
+    margin-right: 10vh;
+}
+
+.me h1{
+    color: #ffaf00;
+}
+
+.BackGround{
+    display: flex;
+    flex-direction: row;
+    margin-top: 6vh;
+}
+
+.left img{
+    width: 40vh;
+    margin-left: 10vh;
+}
+
+.right h4{
+    color: white;
+    text-align: left;
+    margin-top: 10vh;
+    font-family: 'Montserrat' ;
+    font-size: 20px;
+    margin: 10vh 15vh;
+}
+
+
+
+
